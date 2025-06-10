@@ -12,5 +12,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ["lucide-react"],
   },
-  base: "/react-book-shelf",
+  base: "/react-book-shelf/",
 });
